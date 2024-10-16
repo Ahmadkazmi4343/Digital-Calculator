@@ -1,0 +1,32 @@
+
+
+.title{
+
+    margin:  auto ;
+    margin-top: 25vh;
+    text-align: center;
+    width: 210px;
+    color: blue;
+    border: solid black 2px;
+    font-weight: 600;
+    
+}
+input[type="button"]{
+    background-color: black;
+    color: white;
+    border: solid black 2px;
+    width: 100%;
+}
+
+
+input[type="text"]{
+    background: white;
+    border: solid black 2px;
+    width: 100%;
+}
+
+.Calculator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
